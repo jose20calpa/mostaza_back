@@ -1,0 +1,9 @@
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\bin\Debug\netcoreapp2.2\Datos.deps.json
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\bin\Debug\netcoreapp2.2\Datos.dll
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\bin\Debug\netcoreapp2.2\Datos.pdb
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\obj\Debug\netcoreapp2.2\Datos.csproj.CoreCompileInputs.cache
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\obj\Debug\netcoreapp2.2\Datos.AssemblyInfoInputs.cache
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\obj\Debug\netcoreapp2.2\Datos.AssemblyInfo.cs
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\obj\Debug\netcoreapp2.2\Datos.dll
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\obj\Debug\netcoreapp2.2\Datos.pdb
+D:\PROYECTOS SCULPTOR\BackMostaza\Datos\obj\Debug\netcoreapp2.2\Datos.csprojAssemblyReference.cache
